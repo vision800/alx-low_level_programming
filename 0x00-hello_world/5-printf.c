@@ -1,14 +1,10 @@
 #include <stdio.h>
 
 /**
+ * main - Print in C
  *
- *  * main - Prints the size of different var types
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+ * Return: Always 0 (Success)
+ */
 
 
 int main(void)
